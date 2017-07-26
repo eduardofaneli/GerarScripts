@@ -535,7 +535,7 @@ object frmGerarSqlQuery: TfrmGerarSqlQuery
         Height = 72
         Align = alLeft
         Caption = 'Tipo SQL'
-        ItemIndex = 1
+        ItemIndex = 0
         Items.Strings = (
           'SQL'
           'SQLOriginal')

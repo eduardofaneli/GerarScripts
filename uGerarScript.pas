@@ -267,9 +267,9 @@ end;
 function TfrmGerarSqlQuery.ConcatenarParamByName(AParametro: String): String;
 begin
   if (ckbNomeQuery.Checked) and (Trim(edtNomeQuery.Text) <> EmptyStr) then
-    Result := ('    ' + Trim(edtNomeQuery.Text) + '.ParamByName(''' + AParametro + ''').AsValue := EmptyStr;')
+    Result := ('    ' + Trim(edtNomeQuery.Text) + '.ParamByName(''' + AParametro + ''').Value := EmptyStr;')
   else
-    Result := ('  ParamByName(''' + AParametro + ''').AsValue := EmptyStr;');
+    Result := ('  ParamByName(''' + AParametro + ''').Value := EmptyStr;');
 end;
 
 function TfrmGerarSqlQuery.ConcatenarQuery(ASQL: String): String;

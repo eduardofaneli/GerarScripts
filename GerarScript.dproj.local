@@ -3,11 +3,11 @@
 	<Transactions>
     <Transaction>2017/03/06 16:59:13.000.835,=H:\NBS\DelphiXE\Unit1.pas</Transaction>
     <Transaction>2017/03/21 09:01:40.000.824,=H:\NBS\DelphiXE\Unit1.pas</Transaction>
-    <Transaction>2017/03/21 10:05:06.000.823,H:\NBS\DelphiXE\Unit1.dfm=C:\Eduardo Faneli\Gerar Script Delphi\uGerarScript.dfm</Transaction>
-    <Transaction>2017/03/21 10:05:06.000.823,H:\NBS\DelphiXE\Unit1.pas=C:\Eduardo Faneli\Gerar Script Delphi\uGerarScript.pas</Transaction>
-    <Transaction>2017/03/21 10:05:18.000.508,H:\NBS\DelphiXE\Project1.dproj=C:\Eduardo Faneli\Gerar Script Delphi\GerarScript.dproj</Transaction>
+    <Transaction>2017/03/21 10:05:06.000.823,C:\Eduardo Faneli\Gerar Script Delphi\uGerarScript.dfm=H:\NBS\DelphiXE\Unit1.dfm</Transaction>
+    <Transaction>2017/03/21 10:05:06.000.823,C:\Eduardo Faneli\Gerar Script Delphi\uGerarScript.pas=H:\NBS\DelphiXE\Unit1.pas</Transaction>
+    <Transaction>2017/03/21 10:05:18.000.508,C:\Eduardo Faneli\Gerar Script Delphi\GerarScript.dproj=H:\NBS\DelphiXE\Project1.dproj</Transaction>
     <Transaction>2017/05/10 10:42:06.000.939,=C:\Eduardo Faneli\Gerar Script Delphi\Unit1.pas</Transaction>
-    <Transaction>2017/05/10 10:43:04.000.108,C:\Eduardo Faneli\Gerar Script Delphi\uSobre.pas=C:\Eduardo Faneli\Gerar Script Delphi\Unit1.pas</Transaction>
-    <Transaction>2017/05/10 10:43:04.000.108,C:\Eduardo Faneli\Gerar Script Delphi\uSobre.dfm=C:\Eduardo Faneli\Gerar Script Delphi\Unit1.dfm</Transaction>
+    <Transaction>2017/05/10 10:43:04.000.108,C:\Eduardo Faneli\Gerar Script Delphi\Unit1.dfm=C:\Eduardo Faneli\Gerar Script Delphi\uSobre.dfm</Transaction>
+    <Transaction>2017/05/10 10:43:04.000.108,C:\Eduardo Faneli\Gerar Script Delphi\Unit1.pas=C:\Eduardo Faneli\Gerar Script Delphi\uSobre.pas</Transaction>
   </Transactions>
 </BorlandProject>
